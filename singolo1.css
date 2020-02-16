@@ -128,12 +128,12 @@ body {
       padding: 65px 38px 85px 14px;
       width: 240px;
       height: 483px;
-      background-image: url(../assets/img/mockup.png); }
+      background-image: url(assets/img/mockup.png); }
     .slider-item__2 {
       padding: 14px 91px 38px 60px;
       height: 240px;
       width: 484px;
-      background-image: url(../assets/img/mockup_2.png); }
+      background-image: url(assets/img/mockup_2.png); }
   .slider-arrow {
     width: 20px;
     height: 60px;
