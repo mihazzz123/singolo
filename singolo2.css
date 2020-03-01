@@ -154,7 +154,9 @@ body {
           -ms-flex-pack: justify;
               justify-content: space-between;
       margin-left: -10px;
-      margin-right: -10px; }
+      margin-right: -10px;
+      max-height: 630px;
+      overflow: hidden; }
 
 .feedback {
   background-color: #f2f2f2;
@@ -178,7 +180,8 @@ body {
     color: #666d89;
     font-size: 18px;
     font-weight: 900;
-    line-height: 18px; }
+    line-height: 18px;
+    white-space: nowrap; }
   .feedback-item__text {
     text-align: justify;
     margin-top: 10px;
